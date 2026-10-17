@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af2620bf57d01ae42adcd0783dc3f7c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304801
+  packageName: UI FX - Particle System
+  packageVersion: 1.0
+  assetPath: Assets/UI FX - Particle System/Scripts/ParticleSystemMoveOnEdge.cs
+  uploadId: 722072

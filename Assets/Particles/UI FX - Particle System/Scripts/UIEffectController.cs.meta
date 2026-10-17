@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f18fa8a0d152ef46a3fc8911533917e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304801
+  packageName: UI FX - Particle System
+  packageVersion: 1.0
+  assetPath: Assets/UI FX - Particle System/Scripts/UIEffectController.cs
+  uploadId: 722072

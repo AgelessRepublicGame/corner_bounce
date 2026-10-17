@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d02f086187c56ec4b9cabfdbf5ba50cb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375864
+  packageName: Colorful UI Kit
+  packageVersion: 1.0.1
+  assetPath: Assets/Colorful_UI/colorful/font/OFL_License.txt
+  uploadId: 909004

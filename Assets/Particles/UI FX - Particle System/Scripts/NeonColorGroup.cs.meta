@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d2de0cb426067aa40b0d9718d7167faf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304801
+  packageName: UI FX - Particle System
+  packageVersion: 1.0
+  assetPath: Assets/UI FX - Particle System/Scripts/NeonColorGroup.cs
+  uploadId: 722072

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 11748e779b7e96a45aa8ab241d9b63e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304801
+  packageName: UI FX - Particle System
+  packageVersion: 1.0
+  assetPath: Assets/UI FX - Particle System/Scripts/Example_ProgressBar.cs
+  uploadId: 722072

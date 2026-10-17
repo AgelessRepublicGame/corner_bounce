@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53b779162948cf44e8eae04defa1b66a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 337066
+  packageName: Sticky Frog Demo - Swipe to Jump
+  packageVersion: 1.0
+  assetPath: Assets/Sticky Frog/Prefabs/wall.prefab
+  uploadId: 797656

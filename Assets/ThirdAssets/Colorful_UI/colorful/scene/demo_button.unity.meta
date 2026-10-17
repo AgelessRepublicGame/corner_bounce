@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f4f094e9cdd92b46abb06f753c3a24d
+timeCreated: 1763571952
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375864
+  packageName: Colorful UI Kit
+  packageVersion: 1.0.1
+  assetPath: Assets/Colorful_UI/colorful/scene/demo_button.unity
+  uploadId: 909004

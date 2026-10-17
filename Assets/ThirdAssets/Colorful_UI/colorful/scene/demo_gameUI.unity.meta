@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50c33344ac3291d4b965617564bec694
+timeCreated: 1763471754
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375864
+  packageName: Colorful UI Kit
+  packageVersion: 1.0.1
+  assetPath: Assets/Colorful_UI/colorful/scene/demo_gameUI.unity
+  uploadId: 909004

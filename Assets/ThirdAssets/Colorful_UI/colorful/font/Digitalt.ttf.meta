@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 0b3b44e5ceb3e0f428893b28b2a42a62
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Digitalt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375864
+  packageName: Colorful UI Kit
+  packageVersion: 1.0.1
+  assetPath: Assets/Colorful_UI/colorful/font/Digitalt.ttf
+  uploadId: 909004

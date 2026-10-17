@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 2b66c880ce5b94f9981ec6da000b65c8
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 253968
+  packageName: CyberWare 2 - Game Music Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/Jeremy Frobose/CyberWare 2 - Game Music Pack/06-07 Blood On The
+    Street/066_Blood-On-The-Street_D_Exploration_Loop_64bpm4-8_L32M.wav
+  uploadId: 582403
